@@ -1,0 +1,419 @@
+
+[
+  {
+    "name": "Pizza Express, Abdulla Salem",
+    "coords": "29.353278, 47.979361"
+  },
+  {
+    "name": "Sealed, Hawally",
+    "coords": "29.341541, 48.019645"
+  },
+  {
+    "name": "Hawally Tunis street, Al Khair Complex (basement), Hawally",
+    "coords": "29.341414, 48.019974"
+  },
+  {
+    "name": "Shrimpy, Hawally",
+    "coords": "29.339300, 48.022100"
+  },
+  {
+    "name": "COTa",
+    "coords": "29.333996, 47.942890"
+  },
+  {
+    "name": "Hunny's, Qortuba B4",
+    "coords": "29.312279, 47.981002"
+  },
+  {
+    "name": "Block 1, Kaifan MR CAT",
+    "coords": "29.338992, 47.971464"
+  },
+  {
+    "name": "Kaifan Shawarma Mishref, Kaifan",
+    "coords": "29.341686, 47.951469"
+  },
+  {
+    "name": "Yarmouk, Rashid Burger, Yarmouk",
+    "coords": "29.309481, 47.969162"
+  },
+  {
+    "name": "Five Guys, Shuwaikh",
+    "coords": "29.341630, 47.943016"
+  },
+  {
+    "name": "Krispy Kreme, Daiya",
+    "coords": "29.358337, 48.012309"
+  },
+  {
+    "name": "Good Stuff, Bneid Al Qar",
+    "coords": "29.375092, 48.000521"
+  },
+  {
+    "name": "Mcdonald's, Ahmad Al-Jaber",
+    "coords": "29.374305, 47.976607"
+  },
+  {
+    "name": "Elevation Burger, Qortuba",
+    "coords": "29.314065, 47.985805"
+  },
+  {
+    "name": "Cafe Bazza, Kaifan, Kaifan",
+    "coords": "29.338800, 47.962300"
+  },
+  {
+    "name": "Kaifan, WK, Kaifan",
+    "coords": "29.342372, 47.950855"
+  },
+  {
+    "name": "Mayar, Kuwait City TGO",
+    "coords": "29.377190, 47.976766"
+  },
+  {
+    "name": "Zaatar W Zeit, Hawally TGO",
+    "coords": "29.340598, 48.028980"
+  },
+  {
+    "name": "JOE & THE JUICE, Argania Complex",
+    "coords": "29.340848, 47.941285"
+  },
+  {
+    "name": "Caribou Coffee, SALHIYA-8011",
+    "coords": "29.363029, 47.965205"
+  },
+  {
+    "name": "The Chocolate Bar, Al Bedae",
+    "coords": "29.318852, 48.088187"
+  },
+  {
+    "name": "Al Bidaa, Five Guys, Al-Bedae",
+    "coords": "29.318643, 48.088197"
+  },
+  {
+    "name": "DH Kitchen The Kind Ones, (DH Kitchen), Salmiya",
+    "coords": "29.330316, 48.086506"
+  },
+  {
+    "name": "dh kitchen Dunkin Donuts, Salmiya, (DH Kitchen)",
+    "coords": "29.330044, 48.086457"
+  },
+  {
+    "name": "Shake Shack, Abdullah Al Salem",
+    "coords": "29.353278, 47.979361"
+  },
+  {
+    "name": "JOA, Qibla",
+    "coords": "29.375987, 47.976340"
+  },
+  {
+    "name": "Abdullah al-Salem block 3",
+    "coords": "29.352364, 47.979969"
+  },
+  {
+    "name": "WAHERD FALAFEL AL QOR",
+    "coords": "29.369997, 48.007897"
+  },
+  {
+    "name": "Sharq, Kuwait Froyo",
+    "coords": "29.377355, 47.978533"
+  },
+  {
+    "name": "Hi & Buy, Kaifan",
+    "coords": "29.344263, 47.953636"
+  },
+  {
+    "name": "Farooj Abo Alabed, Shuwaikh",
+    "coords": "29.331040, 47.947688"
+  },
+  {
+    "name": "AAYA Sweets, Kuwait City",
+    "coords": "29.368176, 47.970342"
+  },
+  {
+    "name": "Hawally - Block 1 - Bazooka",
+    "coords": "29.332733, 48.007551"
+  },
+  {
+    "name": "McDonalds Siddig",
+    "coords": "29.294078, 48.002670"
+  },
+  {
+    "name": "Just Man`oushe, Salam CO",
+    "coords": "29.296280, 48.009799"
+  },
+  {
+    "name": "Block 4, Lofat, Salam",
+    "coords": "29.295944, 48.010417"
+  },
+  {
+    "name": "Dominos Pizza, Salam",
+    "coords": "29.296355, 48.010279"
+  },
+  {
+    "name": "Shawarma Shakir, Kuwait",
+    "coords": "29.382607, 47.989600"
+  },
+  {
+    "name": "Baskin Robbins, Salam",
+    "coords": "29.295875, 48.010477"
+  },
+  {
+    "name": "Block 1, Beak, Hawally",
+    "coords": "29.333011, 48.007106"
+  },
+  {
+    "name": "Beirut Street, Hawally, international",
+    "coords": "29.336667, 48.019889"
+  },
+  {
+    "name": "Arabi, Shamiya TGO",
+    "coords": "29.349306, 47.963467"
+  },
+  {
+    "name": "alhajery pharmacy, Bneid Al Qar",
+    "coords": "29.370216, 48.008908"
+  },
+  {
+    "name": "Tabel, Bneid Al Qar",
+    "coords": "29.368163, 48.007385"
+  },
+  {
+    "name": "Little Caesars Pizza, Bneid Al Qar",
+    "coords": "29.371430, 48.004976"
+  },
+  {
+    "name": "Raising Cane's, Shuwaikh",
+    "coords": "29.341028, 47.942028"
+  },
+  {
+    "name": "Johnny Rockets, Kaifan",
+    "coords": "29.341947, 47.951420"
+  },
+  {
+    "name": "Farooj Abo Alabed, Hawally Cloud Kitchen",
+    "coords": "29.337333, 48.019959"
+  },
+  {
+    "name": "Yelo Abdullah Alsalem (Dahiya)",
+    "coords": "29.352930, 47.980023"
+  },
+  {
+    "name": "Mart, Rai Talabat",
+    "coords": "29.315528, 47.959777"
+  },
+  {
+    "name": "WK, Kaifan",
+    "coords": "29.342372, 47.950855"
+  },
+  {
+    "name": "Caesars Restaurant, Salhiya",
+    "coords": "29.368590, 47.972121"
+  },
+  {
+    "name": "Swaikhat, Kaifan",
+    "coords": "29.343084, 47.950271"
+  },
+  {
+    "name": "Ananas, Shuwaikh",
+    "coords": "29.337500, 47.935750"
+  },
+  {
+    "name": "Café Bazza, Bneid Al Ghar",
+    "coords": "29.369149, 48.011438"
+  },
+  {
+    "name": "Karak Station",
+    "coords": "29.368299, 47.969877"
+  },
+  {
+    "name": "Lemon Lime, Bneid Al Qar B3",
+    "coords": "29.378130, 48.000555"
+  },
+  {
+    "name": "Mr. Subs Kaifan",
+    "coords": "29.344208, 47.951210"
+  },
+  {
+    "name": "Zaatar W Zeit, Shamiya",
+    "coords": "29.356100, 47.967410"
+  },
+  {
+    "name": "Jollibee, Kuwait City",
+    "coords": "29.364167, 47.964167"
+  },
+  {
+    "name": "Wimpy, Shamiya",
+    "coords": "29.349400, 47.963480"
+  },
+  {
+    "name": "Block 4 Pick, Adailiya",
+    "coords": "29.327472, 47.984639"
+  },
+  {
+    "name": "CHARLEYS CHEESESTEAKS WINGS, Abdullah Al-Salem",
+    "coords": "29.353243, 47.980015"
+  },
+  {
+    "name": "M.E'AT, Kaifan",
+    "coords": "29.342187, 47.951277"
+  },
+  {
+    "name": "Meme Curry, Qibla",
+    "coords": "29.373942, 47.980062"
+  },
+  {
+    "name": "Cure Pharmacy, Shuwaikh",
+    "coords": "29.341752, 47.942978"
+  },
+  {
+    "name": "Milk Bun, Shuwaikh",
+    "coords": "29.341806, 47.943306"
+  },
+  {
+    "name": "Thinnies, Qibla",
+    "coords": "29.363889, 47.964056"
+  },
+  {
+    "name": "Badar Al Badoor Restaurant, Bneid Al Qar",
+    "coords": "29.367248, 48.010057"
+  },
+  {
+    "name": "Kaifan (Abu Saleem",
+    "coords": "29.344227, 47.951221"
+  },
+  {
+    "name": "Mishmash, Kaifan",
+    "coords": "29.341665, 47.952633"
+  },
+  {
+    "name": "McDonald's, Kaifan",
+    "coords": "29.345285, 47.952654"
+  },
+  {
+    "name": "Bakehaus, Kaifan",
+    "coords": "29.344204, 47.951479"
+  },
+  {
+    "name": "Beef Habibi",
+    "coords": "29.369346, 47.972373"
+  },
+  {
+    "name": "Domino's Pizza, Khaldiya",
+    "coords": "29.329215, 47.963347"
+  },
+  {
+    "name": "Domino's Pizza, Kaifan",
+    "coords": "29.341805, 47.951478"
+  },
+  {
+    "name": "Pharmazone, Kaifan",
+    "coords": "29.344402, 47.953804"
+  },
+  {
+    "name": "Herby Kaifan B2",
+    "coords": "29.344199, 47.951210"
+  },
+  {
+    "name": "Five Gaye Shuwaik",
+    "coords": "29.341630, 47.943016"
+  },
+  {
+    "name": "Fat Free, Jabriya",
+    "coords": "29.324447, 48.024447"
+  },
+  {
+    "name": "Caribou Coffee Salem Abdullah Al",
+    "coords": "29.352549, 47.980220"
+  },
+  {
+    "name": "Chili's, Dahyet Abdula Alsalem",
+    "coords": "29.352480, 47.980381"
+  },
+  {
+    "name": "meet",
+    "coords": "29.334912, 48.017218"
+  },
+  {
+    "name": "Talabat Mart-2 Hawally",
+    "coords": "29.334912, 48.017219"
+  },
+  {
+    "name": "La baguette, Hawally",
+    "coords": "29.336274, 48.021024"
+  },
+  {
+    "name": "Kuwait Local beet, maleya",
+    "coords": "29.362417, 47.961861"
+  },
+  {
+    "name": "Salhiya Pineapple Bar, Kuwait",
+    "coords": "29.368280, 47.972024"
+  },
+  {
+    "name": "Jabriya B1 ForeverMore, Jabriya",
+    "coords": "29.321137, 48.024435"
+  },
+  {
+    "name": "Raising Cane's, Bneid Al Qar2",
+    "coords": "29.3719060, 48.0074580"
+  },
+  {
+    "name": "Shaab, Hawally Elamigos, Shaab",
+    "coords": "29.350329, 48.017325"
+  },
+  {
+    "name": "Oxygen Eatery, Qibla",
+    "coords": "29.361735, 47.967391"
+  },
+  {
+    "name": "Assimah Mal Monoprix, Mirqab",
+    "coords": "29.373497, 47.987421"
+  },
+  {
+    "name": "Sharq Bartone, Sharq",
+    "coords": "29.384312, 47.991401"
+  },
+  {
+    "name": "Al Mutawa Pharmacy, Abdullah Al-Salem",
+    "coords": "29.352667, 47.980083"
+  },
+  {
+    "name": "sharq, Kuwait Cacao",
+    "coords": "29.384206, 47.991314"
+  },
+  {
+    "name": "Five Guys, Tijaria",
+    "coords": "29.370439, 47.992758"
+  },
+  {
+    "name": "Mansouriya Domino's Pizza",
+    "coords": "29.360546, 47.996986"
+  },
+  {
+    "name": "Kaifan Juice",
+    "coords": "29.345619, 47.954821"
+  },
+  {
+    "name": "Wk",
+    "coords": "29.343084, 47.950271"
+  },
+  {
+    "name": "The Coffee Bean & Tea leaf, Khaldiya Trolley",
+    "coords": "29.328318, 47.964820"
+  },
+  {
+    "name": "White Bottle, Shuwaikh",
+    "coords": "29.341114, 47.943256"
+  },
+  {
+    "name": "Shuwaikh Overjar",
+    "coords": "29.341306, 47.943250"
+  },
+  {
+    "name": "Royal Kaifan Pharmacy",
+    "coords": "29.341813, 47.952688"
+  },
+  {
+    "name": "Kabab",
+    "coords": "29.354452, 47.958255"
+  }
+]
