@@ -429,8 +429,9 @@
   {
     "name": "Patti & More Qibla",
     "coords": "29.369566, 47.974863"
-  }
-  { "name": "Thinnies, Kaalifan",
+  },
+  { 
+    "name": "Thinnies, Kaalifan",
     "coords": "29.342372, 47.950855"
   }
     
